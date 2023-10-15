@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jennifer Lynn</h1>
-<h3 align="center">A passionate front end developer in New Hampshire</h3>
+<h3 align="center">A front end developer in New Hampshire who loves to solve problems with code.</h3>
 
 - 🌱 I’m currently learning **TailwindCSS and building my JavaScript and React skills**
 
